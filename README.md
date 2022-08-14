@@ -10,7 +10,7 @@
 | <img src="svg/arrow_into_long.svg" height=35 /> | into | `into()` |  |
 | <img src="svg/eye_open_new.svg" height=35 /> | public | `pub` | <img src="svg/library_small_thin.svg" height=35 /> |
 | <img src="svg/eye_closed_thin3.svg" height=35 /> | private | `priv` |  |
-| <img src="svg/const_lock.svg" height=35 /> | reference | `const` | <img src="svg/snowflake.svg" height=35 /> |
+| <img src="svg/const_lock.svg" height=35 /> | const | `const` | <img src="svg/snowflake.svg" height=35 /> |
 | <img src="svg/inl_comment_left3.svg" height=35 /> | multi line <br>comment start | `/*` |  |
 | <img src="svg/inl_comment_right3.svg" height=35 /> | multi line <br>comment end | `*/` |  |
 | <img src="svg/magnifyer.svg" height=35 /> | match | `match` | <img src="svg/heart.svg" height=35 /> <img src="svg/jiggie.svg" height=35 /> <img src="svg/pipette_alt.svg" height=35 /> <img src="svg/rewire.svg" height=35 /> <img src="svg/fingerprint_full.svg" height=35 /> <img src="svg/match_branch3.svg" height=35 /> |
