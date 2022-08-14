@@ -19,7 +19,7 @@
 | <img src="svg/hilbert.svg" height=35 width=40 /> | iterate | `iter()` |  |
 | <img src="svg/filter.svg" height=35 width=40 /> | filter | `filter(` |  |
 | <img src="svg/count_five.svg" height=35 width=40 /> | enumerate | `enumerate()` |  |
-| <img src="svg/element_of_left.svg" height=35 width=40 /> | contains | `enumerate()` |  |
+| <img src="svg/element_of_left.svg" height=35 width=40 /> | contains | `.contains(` |  |
 | <img src="svg/phantom2.svg" height=35 width=40 /> | phantom data | `PhantomData` |  |
 | <img src="svg/circle_result.svg" height=35 width=40 /> | result | `Result` | <img src="svg/result_cup.svg" height=35 width=40 /> <img src="svg/finish_flag.svg" height=35 width=40 /> |
 | <img src="svg/circle_option.svg" height=35 width=40 /> | optional | `Option` | <img src="svg/empty_bottle2.svg" height=35 width=40 /> <img src="svg/brick_block.svg" height=35 width=40 /> <img src="svg/question_block.svg" height=35 width=40 /> |
