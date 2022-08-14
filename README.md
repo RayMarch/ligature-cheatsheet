@@ -46,7 +46,7 @@
 | <img src="svg/cute_bug.svg" height=35 /> | debug <br>print| `dbg!` |  |
 | <img src="svg/cute_bug_single_wide.svg" height=35 /> | debug <br>format| `{:?}` |  |
 | <img src="svg/sparkle_single_wide.svg" height=35 /> | pretty <br>format| `{:#?}` |  |
-| <img src="svg/ferris.svg" height=35 /> | ferris <https://rustacean.net> | `ferris` | |
+| <img src="svg/ferris.svg" height=35 /> | [ferris](https://rustacean.net) | `ferris` | |
 | <img src="svg/turbofish.svg" height=35 /> | turbofish | `::<>` |  |
 | <img src="svg/big_x.svg" height=35 /> | cannot <br>infer type | `{unknown}` |  |
 | <img src="svg/unsafe_lightning_triangle.svg" height=35 /> | unsafe | `unsafe` |  |
@@ -58,7 +58,7 @@
 | <img src="svg/quote.svg" height=35 /> | syn quote | `quote!` |  |
 | <img src="svg/quote_cursor.svg" height=35 /> | syn quote <br>spanned| `quote_spanned!` |  |
 | <img src="svg/feather_flip.svg" height=35 /> | stringify | `stringify` |  |
-| <img src="svg/cube2.svg" height=35 /> | boxed | `Box::new(` `Rc::new(` `Arc::new(` |  |
+| <img src="svg/cube2.svg" height=35 /> | boxed | `Box::new(` <br>`Rc::new(` <br>`Arc::new(` |  |
 | <img src="svg/stamp.svg" height=35 /> | macro rules | `macro_rules!` | <img src="svg/script.svg" height=35 /> |
 | <img src="svg/plus_minus.svg" height=35 /> | plus minus | `plus_minus(` | |
 | <img src="svg/no_glpyh.svg" height=35 /> | record | `.rec()` | <img src="svg/casette.svg" height=35 /> <img src="svg/rec.svg" height=35 /> <img src="svg/mic.svg" height=35 /> <img src="svg/camera.svg" height=35 /> |
