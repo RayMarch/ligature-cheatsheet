@@ -28,9 +28,6 @@
 | <img src="svg/shopping_cart3.svg" height=35 width=40 /> | to owned | `to_owned()` | <img src="svg/shopping_bag_simple.svg" height=35 width=40 /> |
 | <img src="svg/feather.svg" height=35 width=40 /> | to string | `to_string()` | <img src="svg/pen.svg" height=35 width=40 /> |
 | <img src="svg/paper_sheet.svg" height=35 width=40 /> | default | `Default::default()` | <img src="svg/shrug_emoji.svg" height=35 width=40 /> <img src="svg/shrug.svg" height=35 width=40 /> <img src="svg/shaded_small.svg" height=35 width=40 /> |
-| <img src="svg/no_glpyh.svg" height=35 width=40 /> | drop | `drop` | <img src="svg/spiral.svg" height=35 width=40 /> |
-| <img src="svg/no_glpyh.svg" height=35 width=40 /> | cell | `Cell<` | <img src="svg/powerup_mut2.svg" height=35 width=40 /> <img src="svg/cloud_mut.svg" height=35 width=40 /> |
-| <img src="svg/no_glpyh.svg" height=35 width=40 /> | ref cell | `RefCell<` | <img src="svg/powerup_refmut2.svg" height=35 width=40 /> <img src="svg/cloud_refmut.svg" height=35 width=40 /> |
 | <img src="svg/arrow_replace_wide.svg" height=35 width=40 /> | replace | `replace(` |  |
 | <img src="svg/equal2x.svg" height=35 width=40 /> | equal to | `.eq(` |  |
 | <img src="svg/notequal2x.svg" height=35 width=40 /> | not equal to | `.ne(` |  |
@@ -61,7 +58,11 @@
 | <img src="svg/cube2.svg" height=35 width=40 /> | boxed | `Box::new(` <br>`Rc::new(` <br>`Arc::new(` |  |
 | <img src="svg/stamp.svg" height=35 width=40 /> | macro rules | `macro_rules!` | <img src="svg/script.svg" height=35 width=40 /> |
 | <img src="svg/plus_minus.svg" height=35 width=40 /> | plus minus | `plus_minus(` | |
-| <img src="svg/no_glpyh.svg" height=35 width=40 /> | record | `.rec()` | <img src="svg/casette.svg" height=35 width=40 /> <img src="svg/rec.svg" height=35 width=40 /> <img src="svg/mic.svg" height=35 width=40 /> <img src="svg/camera.svg" height=35 width=40 /> |
 | <img src="svg/wgpu.svg" height=35 width=40 /> |  wgpu | `wgpu` | |
 | <img src="svg/magic_wand.svg" height=35 width=40 /> |  bytemuck | `bytemuck` | <img src="svg/pastry_bag.svg" height=35 width=40 />  |
 | <img src="svg/first.svg" height=35 width=40 /> |  first | `first()` | |
+| <img src="svg/no_glpyh.svg" height=35 width=40 /> | drop | `drop` | <img src="svg/spiral.svg" height=35 width=40 /> |
+| <img src="svg/no_glpyh.svg" height=35 width=40 /> | cell | `Cell<` | <img src="svg/powerup_mut2.svg" height=35 width=40 /> <img src="svg/cloud_mut.svg" height=35 width=40 /> |
+| <img src="svg/no_glpyh.svg" height=35 width=40 /> | ref cell | `RefCell<` | <img src="svg/powerup_refmut2.svg" height=35 width=40 /> <img src="svg/cloud_refmut.svg" height=35 width=40 /> |
+| <img src="svg/no_glpyh.svg" height=35 width=40 /> | record | `.rec()` | <img src="svg/casette.svg" height=35 width=40 /> <img src="svg/rec.svg" height=35 width=40 /> <img src="svg/mic.svg" height=35 width=40 /> <img src="svg/camera.svg" height=35 width=40 /> |
+
