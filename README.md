@@ -5,6 +5,7 @@
 | <img src="svg/infinity_fix.svg" height=35 width=40 /> | static | `static` |  |
 | <img src="svg/link.svg" height=35 width=40 /> | reference | `&` |  |
 | <img src="svg/pencil_eraser_small.svg" height=35 width=40 /> | mutable | `mut` | <img src="svg/mutable_key.svg" height=35 width=40 /> |
+| <img src="svg/self_circle_fill.svg" height=35 width=40 /> | self | `self` | |
 | <img src="svg/return_straight.svg" height=35 width=40 /> | return | `return` | <img src="svg/return_simple.svg" height=35 width=40 /> |
 | <img src="svg/bar_dot.svg" height=35 width=40 /> | associated <br>function closure | `\|x\|x.` | |
 | <img src="svg/arrow_into_long.svg" height=35 width=40 /> | into | `into()` |  |
