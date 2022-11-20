@@ -17,7 +17,8 @@
 | <img src="svg/magnifyer.svg" height=35 width=40 /> | match | `match` | <img src="svg/heart.svg" height=35 width=40 /> <img src="svg/jiggie.svg" height=35 width=40 /> <img src="svg/pipette_alt.svg" height=35 width=40 /> <img src="svg/rewire.svg" height=35 width=40 /> <img src="svg/fingerprint_full.svg" height=35 width=40 /> <img src="svg/match_branch3.svg" height=35 width=40 /> |
 | <img src="svg/continue_oval.svg" height=35 width=40 /> | continue | `continue` |  |
 | <img src="svg/exit_loop_arrow.svg" height=35 width=40 /> | break | `break` | <img src="svg/coda_circle.svg" height=35 width=40 /> |
-| <img src="svg/hilbert.svg" height=35 width=40 /> | iterate | `iter()` |  |
+| <img src="svg/triforce.svg" height=35 width=40 /> | iterate | `iter()` |  |
+| <img src="svg/hilbert.svg" height=35 width=40 /> | Iterator | `Iterator` |  |
 | <img src="svg/filter.svg" height=35 width=40 /> | filter | `filter(` |  |
 | <img src="svg/count_five.svg" height=35 width=40 /> | enumerate | `enumerate()` |  |
 | <img src="svg/element_of_left.svg" height=35 width=40 /> | contains | `.contains(` |  |
@@ -38,7 +39,7 @@
 | <img src="svg/gequal2x.svg" height=35 width=40 /> | greater <br>than equal | `.ge(` |  |
 | <img src="svg/crates_io_crate_thin.svg" height=35 width=40 /> | crate | `crate` |  |
 | <img src="svg/folder_up.svg" height=35 width=40 /> | super | `super` |  |
-| <img src="svg/triforce.svg" height=35 width=40 /> | skip rust <br>format | `#[rustfmt::skip]` |  |
+| <img src="svg/no_fmt.svg" height=35 width=40 /> | skip rust <br>format | `#[rustfmt::skip]` |  |
 | <img src="svg/format_wide.svg" height=35 width=40 /> | format <br>string | `format!` |  |
 | <img src="svg/format_args.svg" height=35 width=40 /> | format args | `format_args!` |  |
 | <img src="svg/cute_bug.svg" height=35 width=40 /> | debug <br>print| `dbg!` |  |
